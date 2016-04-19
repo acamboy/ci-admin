@@ -473,7 +473,11 @@
 						<div class="row">
 							<div class="col-xs-12">
 								<!-- PAGE CONTENT BEGINS -->
+<<<<<<< HEAD
 <?php echo template_body() ?>
+=======
+
+>>>>>>> d35d606f0c500af69d1921c10f1cd3e926080577
 								<!-- PAGE CONTENT ENDS -->
 							</div><!-- /.col -->
 						</div><!-- /.row -->
